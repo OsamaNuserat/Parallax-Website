@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.img1 {
+    display: block;
+    position: relative;
+    background-image: url('image1.jpg');
+    opacity: 0.70;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    min-height: 100vh;
+
+}
+.text1 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+.border {
+    background-color: gray;
+    color: #fff;
+    padding: 20px
+
+}
+section  {
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #666;
+    padding: 50px 80px;
+    font-family: "Lato", sans-serif;
+}   
+ h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold; 
+}
+.image2 {
+    background-image: url(image2.jpg);
+    min-height: 400px;
+    width: 100%;
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.text2 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+.border2 {
+   
+    color: #fff;
+    padding: 20px
+}
+
+   .section-2 , .section-3 {
+    text-align: center;
+    background-color: #282e34;
+    color: #ddd;
+    padding: 50px 80px;
+    font-family: "Lato", sans-serif;
+   }
+
+  
+   .image3 {
+     background-image:url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg) ;
+    min-height: 400px;
+    width: 100%;
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+   .text3 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+.border3 {
+    background-color: transparent;
+    color: #fff;
+    padding: 20px;
+}
+
